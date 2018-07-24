@@ -1,1 +1,1 @@
-# Accompanying the manuscript "Trees that didn’t die: limited water storage capacity leads to insensitivity to annual rainfall"
+# Accompanying the manuscript *Where less is more: Limited subsurface water storage capacity can shield forests from drought*. 
