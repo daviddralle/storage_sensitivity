@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE metadata SYSTEM "http://www.fgdc.gov/metadata/fgdc-std-001-1998.dtd">
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>David W. Stewart, Alan Rea and David M. Wolock</origin>
+				<pubdate>April 2006</pubdate>
+				<title>USGS Streamgages Linked to the Medium Resolution NHD</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<serinfo>
+					<sername>Data Series</sername>
+					<issue>DS-195</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Reston, Va</pubplace>
+					<publish>U.S. Geological Survey</publish>
+				</pubinfo>
+				<onlink>http://water.usgs.gov/GIS/metadata/usgswrd/XML/Streamgage.xml </onlink>
+				<ftname Sync="TRUE">USGS_Streamgages-NHD_Locations</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>The locations of approximately 23,000 current and historical U.S. Geological Survey (USGS) streamgages in the United States and Puerto Rico (with the exception of Alaska) have been snapped to the medium resolution National Hydrography Dataset (NHD).  The NHD contains geospatial information about mapped surface-water features, such as streams, lakes, and reservoirs, etc., creating a hydrologic network that can be used to determine what is upstream or downstream from a point of interest on the NHD network. An automated snapping process made the initial determination of the NHD location of each streamgage. These initial NHD locations were comprehensively reviewed by local USGS personnel to ensure that streamgages were snapped to the correct NHD reaches. About 75 percent of the streamgages snapped to the appropriate NHD reach location initially and 25 percent required adjustment and relocation.  This process resulted in approximately 23,000 gages being successfully snapped to the NHD.
+ 
+      This dataset contains the latitude and longitude coordinates of the point on the NHD to which the streamgage is snapped and the location of the gage house for each streamgage. A process known as indexing may be used to create reference points (event tables) to the NHD reaches, expressed as a reach code and measure (distance along the reach). Indexing is dependent on the version of NHD to which the indexing is referenced. These data are well suited for use in indexing because nearly all the streamgage NHD locations have been reviewed and adjusted if necessary, to ensure they will index to the appropriate NHD reach.
+
+Flow characteristics were computed from the daily streamflow data recorded at each streamgage for the period of record. The flow characteristics associated with each streamgage include:
+
+First date (year, month, day) of streamflow data
+Last date (year, month, day) of streamflow data
+Number of days of streamflow data
+Number of days of non-zero streamflow data
+Minimum and maximum daily flow for the period of record (cubic feet per second)
+Percentiles (1, 5, 10, 20, 25, 50, 75, 80, 90, 95, 99) of daily flow for the period of record (cubic feet per second)
+Average and standard deviation of daily flow for the period of record (cubic feet per second)
+Mean annual base-flow index (BFI) computed for the period of record (fraction, ranging from 0 to 1)
+Year-to-year standard deviation of the annual base-flow index computed for the period of record (fraction)
+Number of years of data used to compute the base-flow index (years)
+
+The streamflow data used to compute flow characteristics were copied from the NWIS-Web historical daily discharge archive (nadww01.er.usgs.gov:/www/htdocs/nwisweb/data/discharge) on June 15, 2005.
+</abstract>
+			<purpose>The purpose of this dataset is to document the location of USGS active and historical streamgages on the NHD version 2002 medium resolution (1:100,000-scale). This dataset can also be used to index these USGS streamgages to other versions of the NHD as well. The flow characteristics tied to each of the streamgages attached to the NHD will greatly facilitate hydrologic analysis and can be used for such things as the development of regional statistical models of streamflow at ungaged locations.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2005</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>Source information retrieved from NWIS April 2004</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-159.750305</westbc>
+				<eastbc Sync="TRUE">-65.302467</eastbc>
+				<northbc Sync="TRUE">48.999947</northbc>
+				<southbc Sync="TRUE">17.956547</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-159.750305</leftbc><rightbc Sync="TRUE">-65.302467</rightbc><bottombc Sync="TRUE">17.956547</bottombc><topbc Sync="TRUE">48.999947</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>Gages</themekt>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>Streamgages</themekey>
+				<themekey>Gaging Stations</themekey>
+				<themekey>USGS Streamgage Network Locations for NHD Version June 2002 Medium Resolution</themekey>
+				<themekey>Streamflow statistics</themekey>
+				<themekey>Streamflow data</themekey>
+				<themekey>Base flow index</themekey>
+				<themekey>Hydrography</themekey>
+				<themekey>National Hydrography Dataset</themekey>
+				<themekey>NHD</themekey>
+				<themekey>Streamgages</themekey>
+				<themekey>inlandWaters</themekey>
+			</theme>
+			<place>
+				<placekey>United States of America</placekey>
+				<placekey>United States</placekey>
+				<placekey>USA</placekey>
+				<placekey>Alabama</placekey>
+				<placekey>Arizona</placekey>
+				<placekey>Arkansas</placekey>
+				<placekey>California</placekey>
+				<placekey>Colorado</placekey>
+				<placekey>Connecticut</placekey>
+				<placekey>Deleware</placekey>
+				<placekey>District of Columbia</placekey>
+				<placekey>Florida</placekey>
+				<placekey>Georgia</placekey>
+				<placekey>Hawaii</placekey>
+				<placekey>Idaho</placekey>
+				<placekey>Illinois</placekey>
+				<placekey>Indiana</placekey>
+				<placekey>Iowa</placekey>
+				<placekey>Kansas</placekey>
+				<placekey>Kentucky</placekey>
+				<placekey>Louisiana</placekey>
+				<placekey>Maine</placekey>
+				<placekey>Maryland</placekey>
+				<placekey>Massachusetts</placekey>
+				<placekey>Michigan</placekey>
+				<placekey>Minnesota</placekey>
+				<placekey>Mississippi</placekey>
+				<placekey>Missouri</placekey>
+				<placekey>Montana</placekey>
+				<placekey>Nebraska</placekey>
+				<placekey>Nevada</placekey>
+				<placekey>New Hampshire</placekey>
+				<placekey>New Jersey</placekey>
+				<placekey>New Mexico</placekey>
+				<placekey>New York</placekey>
+				<placekey>North Carolina</placekey>
+				<placekey>North Dakota</placekey>
+				<placekey>Ohio</placekey>
+				<placekey>Oklahoma</placekey>
+				<placekey>Oregon</placekey>
+				<placekey>Pennsylvania</placekey>
+				<placekey>Rhode Island</placekey>
+				<placekey>South Carolina</placekey>
+				<placekey>South Dakota</placekey>
+				<placekey>Tennessee</placekey>
+				<placekey>Texas</placekey>
+				<placekey>Utah</placekey>
+				<placekey>Vermont</placekey>
+				<placekey>Virginia</placekey>
+				<placekey>Washington</placekey>
+				<placekey>West Virginia</placekey>
+				<placekey>Wisconsin</placekey>
+				<placekey>Wyoming</placekey>
+				<placekey>Puerto Rico</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>None</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>US Gelogical Survey</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>437 USGS National Center</address>
+					<city>Reston</city>
+					<state>Va.</state>
+					<postal>22092</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntinst>http://answers.usgs.gov/cgi-bin/gsanswers</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<datacred>David W. Stewart, Alan Rea and David M. Wolock</datacred>
+		<secinfo>
+			<secsys>None</secsys>
+			<secclass>Unclassified</secclass>
+			<sechandl>None</sechandl>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</native>
+		<crossref>
+			<citeinfo>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<attracc>
+		</attracc>
+		<logic>none</logic>
+		<complete>none</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>The positional accuracy of the NHD locations is very good. Most locations were reviewed by USGS Water Science Center personnel who knew the precise locations for the vast majority of all the streamgages. These reviewed locations have the REVIEWED field set to 'Y', which stands for "yes, these locations have been reviewed." In general, the positional accuracy of the active streamgage location and streamgages that were active in the past 30 years could be considered slightly more accurate then the older historical streamgages.
+
+        Most NHD locations were reviewed by USGS Water Science Center personnel. The NHD locations of 17,482 are within a few meters of the delineated stream reach, since they were automatically snapped to the nearest latitude/longitude vertices in the NHD arc. The remaining 4,271 NHD locations were manually adjusted during the review and moved to the correct locations. Although the new locations were not snapped exactly to NHD vertices, reviewers were instructed to place the point so that it would be close enough to snap to the proper position on the NHD.
+
+        The NHD locations not reviewed by USGS Water Science Center personnel are also included. These locations have the REVIEWED field set to 'N' which stands for "not reviewed. These locations were snapped to the NHD in an automated process, but no review has been done to ensure they snapped to the proper NHD reach. A total of 2,042 gages in the dataset were not reviewed."</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<title>NWIS-Web streamflow data</title>
+					</citeinfo>
+				</srccite>
+				<typesrc>Digital Data</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20050615</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>USGS-NWIS</srccitea>
+				<srccontr>Point locations and hydrologic data</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Creating the streamgage dataset:
+        The NWISWeb database was used exclusively to create the initial streamgage dataset. NWISWeb consolidates all the needed data from all USGS Water Science Center (WSC) NWIS databases in one place, making it easy to use without having to query each WSC's NWIS database individually. NWISWeb only contains information from NWIS db_01. Stations in other NWIS databases were not considered and are not part of the streamgage dataset.
+
+        There are a total of 25,768 stations in the streamgage dataset for areas that are covered by NHD, which are, the conterminous US, plus Hawaii and Puerto Rico. Stations in Alaska, US Virgin Islands, Canada, and other US territories are not included because these areas do not have NHD coverage, at the time of the indexing.
+        The following outlines how the streamgage dataset was constructed:
+        1.	Retrieved all daily-values (DV) for the entire period of record from the NWISWeb database on April 20, 2004. The results are in 48 Water Science Center-specific files.
+        2.	Each district DV file was examined. Stations containing at least 1 day of data associated with one or more of the following parameters were flagged:
+         -	parm = 00060 - Streamflow, ft/s
+        	-	parm = 00065 - Gage height, ft
+        	-	parm = 00054 - Reservoir storage, acre-ft
+        	-	parm = 00053 - Surface Area, acres
+        	-	parm = 00055 - Stream velocity, ft/s
+        	-	parm = 00059 - Streamflow rate, gal/min
+        	-	parm = 00062 - Reservoir elevation, ft
+        	-	parm = 50042 - Discharge, gallons per minute
+        	-	parm = 50051 - Flow rate, instantaneous, million gallons per day
+        	-	parm = 72022 - Reservoir contents, M/gal
+        	-	parm = 99020 - Elevation above NGVD 1929, ft
+        	-	parm = 99060 - Streamflow, m/s
+        	-	parm = 99065 - Gage height, m
+
+        3.	The flagged stations were appended and duplicate stations removed.
+        4.	Stations with data in water-years 2003 or 2004 were identified as "active". (Not all daily-values for the current water-year (2004) are in the database, and that is why water-year 2003 data was also considered. This means a few stations that were recently discontinued will be incorrectly flagged as "active".)
+        5.	All 25,768 stations in the streamgage dataset were batch indexed using the US Environmental Protection Agency's (EPA) medium-resolution NHD database.
+        6.	EPA provided the results of the indexing, containing a latitude/longitude coordinates of point location on the NHD stream that is associated with each station; known as an "event point". This "event point" and the latitude/longitude coordinate of the station were converted to the Albers Equal Area projection so a distance, in meters, between the station and the "event point" could be computed and added as an attribute.
+        7.	The final streamgage dataset is in geographic coordinates using the NAD83 datum.
+
+        Water Science Center (WSC) personnel then reviewed the batch-indexing results using a provided streamgage dataset and GIS/ArcMap custom application. This process not only tied USGS streamgages to the NHD, but also represents an important opportunity to use an efficient process to correct station location errors in NWIS.
+
+        After the review was completed, the results were then consolidated creating this product. The reviewers examined 23,945 streamgages and found
+        -	17,482 to be batch indexed correctly and the event point was not moved. ~ 73%.
+        -	962 gages were flagged as "Do Not Use" and removed from this dataset, gages that do not contain any meaningful information.  ~ 4%
+        -	1380 gages were flagged as "No 100k NHD Reach" and removed from this dataset ~ 5%
+        -	4271 gages have modified/moved event points - moved, on average, 795 meters. ~ 18%
+        -	4111 gages have modified/moved site locations (gage house) - moved, on average, 1123 meters ~ 17%
+
+        8. The non-reviewed streamgages were added to the final dataset and these streamgages were flagged as "not reviewed" and the reviewed streamgages flagged as "reviewed".
+
+        9. The streamgages that were not included in the initial streamgages database but had streamflow characteristics were also added to the final streamgage database. The nearest NHD reach was automatically determined and the nearest point on the nearest NHD reach was calculated. This nearest NHD point became the NHD location. These streamgages have not been reviewed.
+
+        The final streamgage database contains the location of 23,426 streamgages. Started with 25,768 streamgages, 962 were removed because they were identified during the review as "do not use". Another 1380 streamgages were removed because they were located on streams not delineated on the 100K NHD. Of the total 23,426 streamgages, 21,384 were reviewed and 2,042 were not. 
+
+
+        Estimating the flow characteristics:
+
+        1. Daily streamflow data for all streamgages were copied from the files located in the subdirectories of nadww01.er.usgs.gov:/www/htdocs/nwisweb/data/discharge on June 15, 2005.
+
+        2. The Perl program qstats.pl (Xiaodong Jian, USGS, written commun., 2005) was used to compute the time period and flow statistics for each streamgage.
+
+        3. Base-flow index estimation:
+
+        A base-flow index (BFI) was computed for the streamgages using a Fortran program written by Tony Wahl (Bureau of Reclamation. U.S. Department of the Interior) and Ken Wahl (U.S. Geological Survey) (http://www.usbr.gov/pmts/hydraulics_lab/twahl/bfi/index.html). The computer program name is bfi41.f and was the most current version available at the time. The computer program was compiled on a Sun Unix system and run with the default parameter values. 
+
+        The BFI Web page (http://www.usbr.gov/pmts/hydraulics_lab/twahl/bfi/index.html) states:
+
+        "The BFI program was developed to make the base-flow separation process less tedious and more objective. The program implements a deterministic procedure proposed in 1980 by the British Institute of Hydrology. The method combines a local minimums approach with a recession slope test. The program estimates the annual base-flow volume of unregulated rivers and streams and computes an annual base-flow index (BFI, the ratio of base flow to total flow volume for a given year) for multiple years of data at one or more gage sites. Although the method may not yield the true base flow as might be determined by a more sophisticated analysis, the index has been found to be consistent and indicative of base flow, and thus may be useful for analysis of long term base-flow trends. Users should be very cautious about using methods such as this for short-term storm events or for locations where streamflow is affected by upstream regulation, such as reservoir releases. In general, the method interprets most regulated releases as base flow. If the program is used for regulated streams, the effects of regulation must be carefully accounted for through manual adjustment of the program output."
+
+        BFI references:
+
+        Wahl, K.L., and Wahl, T.L., 1995, Determining the flow of Comal Springs at New Braunfels, Texas, In Proceedings of Texas Water '95, American Society of Civil Engineers, August 16-17, 1995 San Antonio, Texas: American Society of Civil Engineers,  p. 77-86, information available on the World Wide Web, accessed March 25, 2003 , at URL http://www.usbr.gov/pmts/hydraulics_lab/twahl/bfi/texaswater95/comalsprings.html
+
+        Wahl, K.L., and Wahl, T.L., 1988, Effects of regional ground-water declines on streamflows in the Oklahoma Panhandle, In Proceedings of Symposium on Water-Use Data for Water Resources Management: Tucson, Arizona, American Water Resources Association, p. 239-249, information available on the World Wide Web, accessed March 25, 2003, at URL http://www.usbr.gov/pmts/hydraulics_lab/twahl/bfi/bfi_beaver_river.pdf
+
+        The use of firm, trade, and brand names is for identification purposes only and does not constitute endorsement by the U.S. government.</procdesc>
+				<procdate>Unknown</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused></srcused>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused></srcused>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused></srcused>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused></srcused>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>D:\nhd2gagex\review_results\new_version\USGS_Streamgages-NHD_Locations_metadata.xml</srcused>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">D:\nhd2gagex\review_results\new_version\metadata.xml</srcused><date Sync="TRUE">20060613</date><time Sync="TRUE">10222300</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">D:\nhd2gagex\review_results\new_version\lgage_locations</srcused><date Sync="TRUE">20060613</date><time Sync="TRUE">10340700</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="USGS_Streamgages-NHD_Locations">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">23426</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="USGS_Streamgages-NHD_Locations"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Point</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">23426</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000001</latres>
+				<longres Sync="TRUE">0.000001</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn></cordsysn></horizsys>
+		<vertdef>
+			<altsys>
+				<altres>0.000010</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="USGS_Streamgages-NHD_Locations">
+			<enttyp>
+				<enttypl Sync="TRUE">USGS_Streamgages-NHD_Locations</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">23426</enttypc></enttyp>
+			<attr>
+				<attrlabl>ACCOUNTING</attrlabl>
+				<attrdef>Hydrologic accounting unit (6 digit HUC) of the gage</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FID_sites</attrlabl>
+				<attrdef>Internal identifier</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl>AGENCY_CD</attrlabl>
+				<attrdef>Gov. Agency responsible for the streamgage</attrdef>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth></attr>
+			<attr>
+				<attrlabl>SITE_NO</attrlabl>
+				<attrdef>USGS Station/Site identification number</attrdef>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">15</attwidth></attr>
+			<attr>
+				<attrlabl>STATION_NM</attrlabl>
+				<attrdef>Station name</attrdef>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">60</attwidth></attr>
+			<attr>
+				<attrlabl>STATE_CD</attrlabl>
+				<attrdef>2 digit state FIPS code of the WSC maintaining the gage. Puerto Rico is listed as a state.</attrdef>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth></attr>
+			<attr>
+				<attrlabl>STATE</attrlabl>
+				<attrdef>2 char. state postal abrev. of the WSC maintaining the gage. Puerto Rico is listed as a state.</attrdef>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth></attr>
+			<attr>
+				<attrlabl>SITESTATUS</attrlabl>
+				<attrdef>Active (A) or Inactive (I) where active streamgages contain streamflow data in 2003 and/or 2004</attrdef>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth></attr>
+			<attr>
+				<attrlabl>DA_SQ_MILE</attrlabl>
+				<attrdef>Reported drainage area in square miles. Stations with  DA of -999999 means there is no reported DA in NWIS.</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">2</atnumdec></attr>
+			<attr>
+				<attrlabl>LON_SITE</attrlabl>
+				<attrdef>Longitude of the streamgage (site) location - gage house in decimal degrees, NAD83</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">8</atnumdec></attr>
+			<attr>
+				<attrlabl>LAT_SITE</attrlabl>
+				<attrdef>Latitude of the streamgage (site) location  - gage house in decimal degrees, NAD83</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">8</atnumdec></attr>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv><atnumdec Sync="TRUE">8</atnumdec></attr><attr>
+				<attrlabl>LON_NHD</attrlabl>
+				<attrdef>Longitude of the NHD location in decimal degrees, NAD83</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">8</atnumdec></attr>
+			<attr>
+				<attrlabl>LAT_NHD</attrlabl>
+				<attrdef>Latitude of the NHD location in decimal degrees, NAD83</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>REVIEWED</attrlabl>
+				<attrdef>Flag to indicate review status - Y or N</attrdef>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth></attr>
+			<attr>
+				<attrlabl>BFIYRS</attrlabl>
+				<attrdef>Number of years used in the base-flow index computation</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl>BFI_AVE</attrlabl>
+				<attrdef>Average annual base-flow index value</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>BFI_STDEV</attrlabl>
+				<attrdef>Standard deviation of annual base-flow index</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>GOTBFI</attrlabl>
+				<attrdef>Data flag for BFI</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl>DAY1</attrlabl>
+				<attrdef>First date of flow data (yyyymmdd)</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>DAYN</attrlabl>
+				<attrdef>Last date of flow data (yyyymmdd)</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth></attr>
+			<attr>
+				<attrlabl>NDAYS</attrlabl>
+				<attrdef>Number of days of flow</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl>NDAYSGT0</attrlabl>
+				<attrdef>Number of days of non-zero flow</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl>MIN_</attrlabl>
+				<attrdef>Minimum daily flow for the period of record</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>P1</attrlabl>
+				<attrdef>1st percentile of daily flow for the period of record. Negative values indicate reverse flow; tidal or backwater</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>P5</attrlabl>
+				<attrdef>5th percentile of daily flow for the period of record. Negative values indicate reverse flow; tidal or backwater</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>P10</attrlabl>
+				<attrdef>10th percentile of daily flow for the period of record. Negative values indicate reverse flow; tidal or backwater</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>P20</attrlabl>
+				<attrdef>20th percentile of daily flow for the period of record. Negative values indicate reverse flow; tidal or backwater</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>P25</attrlabl>
+				<attrdef>25th percentile of daily flow for the period of record. Negative values indicate reverse flow; tidal or backwater</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>P30</attrlabl>
+				<attrdef>30th percentile of daily flow for the period of record. Negative values indicate reverse flow; tidal or backwater</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>P40</attrlabl>
+				<attrdef>40th percentile of daily flow for the period of record. Negative values indicate reverse flow; tidal or backwater</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>P50</attrlabl>
+				<attrdef>50th percentile of daily flow for the period of record. Negative values indicate reverse flow; tidal or backwater</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>P60</attrlabl>
+				<attrdef>60th percentile of daily flow for the period of record. Negative values indicate reverse flow; tidal or backwater</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>P70</attrlabl>
+				<attrdef>70th percentile of daily flow for the period of record. Negative values indicate reverse flow; tidal or backwater</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>P75</attrlabl>
+				<attrdef>75th percentile of daily flow for the period of record. Negative values indicate reverse flow; tidal or backwater</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>P80</attrlabl>
+				<attrdef>80th percentile of daily flow for the period of record. Negative values indicate reverse flow; tidal or backwater</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>P90</attrlabl>
+				<attrdef>90th percentile of daily flow for the period of record. Negative values indicate reverse flow; tidal or backwater</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>P95</attrlabl>
+				<attrdef>95th percentile of daily flow for the period of record. Negative values indicate reverse flow; tidal or backwater</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>P99</attrlabl>
+				<attrdef>99th percentile of daily flow for the period of record. Negative values indicate reverse flow; tidal or backwater</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>MAX_</attrlabl>
+				<attrdef>Maximum daily flow for the period of record</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>AVE</attrlabl>
+				<attrdef>Average daily flow for the period of record</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>STDEV</attrlabl>
+				<attrdef>Standard deviation of flow for daily the period of record</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl>GOTQ</attrlabl>
+				<attrdef>Flag indicating flow data (1) or no flow data (0)</attrdef>
+				<attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">9</attwidth></attr>
+			<attr>
+				<attrlabl>NWISWEB</attrlabl>
+				<attrdef>URL to the station's NWISWeb home page.</attrdef>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">75</attwidth></attr>
+			<attr>
+				<attrlabl>HUC</attrlabl>
+				<attrdef>Hydrologic Cataloging Unit (8 digit HUC) of the gage</attrdef>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">8</attwidth></attr>
+			<attr>
+				<attrlabl>HUC_REG</attrlabl>
+				<attrdef>Hydrologic Region (2 digit HUC) of the gage</attrdef>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth></attr>
+			<attr>
+				<attrlabl>SUBREGIONS</attrlabl>
+				<attrdef>Hydrologic sub-region (4 digit HUC) of the gage</attrdef>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">4</attwidth></attr>
+			<attr><attrlabl Sync="TRUE">FID_SITES</attrlabl><attalias Sync="TRUE">FID_SITES</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">6</attwidth><attrdef>Internal Identifer</attrdef></attr><attr><attrlabl Sync="TRUE">NHD2GAGE_D</attrlabl><attalias Sync="TRUE">NHD2GAGE_D</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">18</atprecis><attscale Sync="TRUE">3</attscale><attrdef>Distance between the NHD location and the gage house location, in meters</attrdef></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<stdorder><digform><digtinfo><transize>3.44MB</transize><dssize>18.6MB</dssize></digtinfo><digtopt><onlinopt><computer><networka><networkr>http://water.usgs.gov/GIS/dsdl/USGS_Streamgages-NHD_Locations_Shape.zip </networkr></networka></computer></onlinopt></digtopt></digform></stdorder></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20060620</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+					<city>REQUIRED: The city of the address.</city>
+					<state>REQUIRED: The state or province of the address.</state>
+					<postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+				</cntaddr>
+				<cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20060613</CreaDate><CreaTime>10340700</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20060620</SyncDate><SyncTime>11002300</SyncTime><ModDate>20060620</ModDate><ModTime>11014600</ModTime><MetaID>{F9E503BD-32CA-48B1-B51F-BA46D18F9DEA}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">USGS_Streamgages-NHD_Locations</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-159.750305</westBL><eastBL Sync="TRUE">-65.302467</eastBL><northBL Sync="TRUE">48.999947</northBL><southBL Sync="TRUE">17.956547</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-159.750305</westBL><eastBL Sync="TRUE">-65.302467</eastBL><northBL Sync="TRUE">48.999947</northBL><southBL Sync="TRUE">17.956547</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\IGSAAAHMWSW075\D$\nhd2gagex\review_results\new_version\test_version\USGS_Streamgages-NHD_Locations.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.626</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_North_American_1983</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="USGS_Streamgages-NHD_Locations"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">23426</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20060620</mdDateSt></metadata>

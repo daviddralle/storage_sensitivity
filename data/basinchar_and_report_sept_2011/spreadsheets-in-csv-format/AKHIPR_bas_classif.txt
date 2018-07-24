@@ -1,0 +1,256 @@
+STAID,CLASS,AGGECOREGION,WR_REPORT_REMARKS,ADR_CITATION,SCREENING_COMMENTS (WSC),WSC_CLASS (AK-HI-PR only)
+15012000,Ref,Alaska,,1975 ADR,,1
+15019990,Non-ref,Alaska,"Water for power generation is diverted from Tyee Lake and discharged into Bradfield Canal. Diversion to hydropower plant began February 1984, and is not included in the discharge records.",http://wdr.water.usgs.gov/wy2009/pdfs/15019990.2009.pdf,diversion,3
+15022000,Ref,Alaska,,2001 ADR,,1
+15026000,Non-ref,Alaska,,1972 ADR,currently being developed for hydropower,2
+15048000,Ref,Alaska,,1975 ADR,,1
+15050000,Non-ref,Alaska,"Water may be diverted about 0.5 mi upstream and three wells, located upstream from the gage in Last Chance Basin, pump water for municipal use and may decrease flow during winter periods.",http://wdr.water.usgs.gov/wy2006/pdfs/15050000.2006.pdf,occasional diversion not well documented,3
+15051010,Non-ref,Alaska,Flow regulated by Salmon Creek Reservoir 2.5 mi upstream. Diversions upstream for off-stream hydropower plant; outflow from the plant goes into Gastineau Channel and is not included in the discharge records. Diversions upstream into Twin Lakes via a pipel,http://wdr.water.usgs.gov/wy2009/pdfs/15051010.2009.pdf,,3
+15052000,Ref,Alaska,Large diurnal fluctuations caused by glacier melt at source.,http://wdr.water.usgs.gov/wy2008/pdfs/15052000.2008.pdf,,1
+15055500,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15055500.2009.pdf,,1
+15056210,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15056210.2009.pdf,,1
+15072000,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15072000.2009.pdf,,1
+15081497,Non-ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15081497.2009.pdf,clearcut logging in basin,2
+15085100,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15085100.2009.pdf,,1
+15087080,Non-ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15087080.2009.pdf,only 6 yr record - doscontinued,2
+15087690,Ref,Alaska,,http://wdr.water.usgs.gov/wy2006/pdfs/15087690.2006.pdf,,1
+15088000,Non-ref,Alaska,"Minor regulation above station by Sitka Public Utilities hydroelectric plant during periods 1920-23 and 1937-42. In 1959, Blue Lake Dam, 1.6 mi upstream, was completed. The area of the lake is 1225 acres. The dam is concrete with a spillway elevation of 3",http://wdr.water.usgs.gov/wy2009/pdfs/15088000.2009.pdf,,3
+15101490,Non-ref,Alaska,Greens Creek Mining Company pumps water from gage pool for use in mill. Diversion flow is recorded on totalizing meters in gage house. Pump records are available from Greens Creek Mining Company.,http://wdr.water.usgs.gov/wy2009/pdfs/15101490.2009.pdf,,2
+15106920,Ref,Alaska,,http://wdr.water.usgs.gov/wy2007/pdfs/15106920.2007.pdf,,1
+15106980,Ref,Alaska,,1975 ADR,,1
+15108000,Ref,Alaska,,1975 ADR,,1
+15109000,Ref,Alaska,,1975 ADR,,1
+15129500,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15129500.2009.pdf,,1
+15129600,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15129600.2009.pdf,,1
+15200000,Ref,Alaska,Some diurnal fluctuation at times each year caused snow and glacier melt at the source.,1969 ADR,,1
+15200280,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15200280.2009.pdf,,1
+15202000,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15202000.2009.pdf,glacier lake outbreaks common,1
+15208000,Ref,Alaska,,1975 ADR,,1
+15215990,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15215990.2009.pdf,,1
+15216000,Ref,Alaska,"Streamflow augmented by glaciers, which are cover 27 percent of the basin.",1975 ADR,being considered for hydropower but nothing in the record,1
+15226000,Non-ref,Alaska,"Discharge data represent the flow at mouth which includes Solomon Gulch at top of falls (station 15225997), power plant tailrace (station 15225996), and all fish hatchery diversions. Water for power generation is diverted by a dam at Solomon Lake, 0.8 mi",http://wdr.water.usgs.gov/wy2009/pdfs/15226000.2009.pdf,,3
+15236900,Ref,Alaska,"Stream flow is modified by runoff from the melting of Wolverine Glacier, which covers 6.8 mi², more than 70% of the drainage basin.",http://wdr.water.usgs.gov/wy2009/pdfs/15236900.2009.pdf,almost entirely runoff from Wolverine Glacier,1
+15237730,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15237730.2009.pdf,,1
+15238600,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15238600.2009.pdf,,1
+15238820,Ref,Alaska,,1975 ADR,,1
+15239000,Non-ref,Alaska,"Reservoir is formed by an earthen dam with impermeable core and concrete face at the outlet of Bradley Lake. Construction began November 1986 and was completed in April 1991. Total and usable capacities below the spillway crest of 1,180 ft are 547,500 and",2001 ADR,"monthly discharges are computed after WY 1990, flow regulated since Oct 1986",3
+15239050,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15239050.2009.pdf,,1
+15239060,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15239060.2009.pdf,upper part of basin is diverted bl 15239050,1
+15241600,Non-ref,Alaska,,2001 ADR,basin logged intermittently,2
+15242000,Ref,Alaska,,1969 ADR,,1
+15248000,Ref,Alaska,,1975 ADR,,1
+15258000,Non-ref,Alaska,Diversion from Cooper Lake to Kenai Lake above gage through Cooper Lake power plant began May 1961.,http://wdr.water.usgs.gov/wy2009/pdfs/15258000.2009.pdf,"glacier outbursts every 3rd year, water diverted into basin above gage",2
+15261000,Non-ref,Alaska,"Since July 1959, entire flow from 31.8 mi² of drainage area has been regulated by dam at Cooper Lake outlet. No spilling since 1959 except for period May 1961 to October 1962.",http://wdr.water.usgs.gov/wy2009/pdfs/15261000.2009.pdf,upper part of basin diverted into 15258000,2
+15266110,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15266110.2009.pdf,,1
+15266300,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15266300.2009.pdf,,1
+15271000,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15271000.2009.pdf,,1
+15272380,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15272380.2009.pdf,,1
+15273045,Non-ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15273045.2009.pdf,minor urbanization,2
+15274000,Ref,Alaska,,2001 ADR,,1
+15276000,Non-ref,Alaska,"Discharge data represent the net flow remaining after diversion for water supply to Fort Richardson, Elmendorf Air Force Base, and Municipality of Anchorage. Average diversion for water year 2009 was 4.99 ft³/s. Diversion began in 1944. Magnitude of disch",http://wdr.water.usgs.gov/wy2009/pdfs/15276000.2009.pdf,"minor diversions accounted in ADR, but not NWISWeb",3
+15282000,Ref,Alaska,Large diurnal fluctuations at times each year caused by snow melt.,1975 ADR,,1
+15283700,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15283700.2009.pdf,,1
+15284000,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15284000.2009.pdf,,1
+15290000,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15290000.2009.pdf,,1
+15291000,Ref,Alaska,,1975 ADR,,1
+15291200,Ref,Alaska,"Stream flow augmented by Maclaren Glacier, which covers 19 percent of the basin.",1975 ADR,,1
+15292000,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15292000.2009.pdf,,1
+15292700,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15292700.2009.pdf,,1
+15294005,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15294005.2009.pdf,,1
+15294300,Ref,Alaska,Summer flows augmented by glaciers that cover 16 percent of basin.,1975 ADR,,1
+15296000,Ref,Alaska,,1975 ADR,,1
+15297200,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15297200.2009.pdf,,1
+15297610,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15297610.2009.pdf,,1
+15300250,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15300250.2009.pdf,,1
+15300300,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15300300.2009.pdf,,1
+15302000,Ref,Alaska,"Discharge affected by storage in Tikchik Lake, Nuyakuk Lake, Lake Chauekuktuli, and other smaller lakes covering over 170 mi² of the basin.",http://wdr.water.usgs.gov/wy2009/pdfs/15302000.2009.pdf,,1
+15302200,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15302200.2009.pdf,,1
+15302250,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15302250.2009.pdf,,1
+15477740,Non-ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15477740.2009.pdf,mine development in basin and minor impoundments,2
+15478040,Ref,Alaska,"Streamflow augmented by Gulkana Glacier and other glaciers that cover 7.5 mi² and 1.1 mi², respectively, of the drainage basin.",http://wdr.water.usgs.gov/wy2009/pdfs/15478040.2009.pdf,most of basin occupied by Gulkana Glacier,1
+15484000,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15484000.2009.pdf,,1
+15493000,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15493000.2009.pdf,,1
+15511000,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15511000.2009.pdf,,1
+15515060,Non-ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15515060.2009.pdf,mine development  ,2
+15515080,Non-ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15515080.2009.pdf,mine development  ,2
+15516000,Ref,Alaska,Some diurnal fluctuation at times each year caused snow and glacier melt.,1972 ADR,,1
+15518000,Ref,Alaska,Some diurnal fluctuation at times each year caused by snowmelt at the source. Release of water from glacier dammed lake on Yanert Glacier about 50 mi (80 km) upstream caused some peak flows at station. A flood of this nature apparently occurried in early,1975 ADR,,1
+15564879,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15564879.2009.pdf,,1
+15564900,Ref,Alaska,,1975 ADR,,1
+15743850,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15743850.2009.pdf,,1
+15747000,Non-ref,Alaska,Flow from 2.8 square miles of the drainage basin is regulated by a tailings dam at the Red Dog Mine site. Up to 25 ft³/s of the flow at the gage may be discharge from Red Dog Mine during the summer period.,http://wdr.water.usgs.gov/wy2009/pdfs/15747000.2009.pdf,,2
+15803000,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15803000.2009.pdf,,1
+15820000,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15820000.2009.pdf,,1
+15860000,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15860000.2009.pdf,,1
+15861000,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15861000.2009.pdf,,1
+15896000,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15896000.2009.pdf,,1
+15904800,Non-ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15904800.2009.pdf,"records poor, this is a very difficult stream to measure",1
+15908000,Ref,Alaska,,http://wdr.water.usgs.gov/wy2009/pdfs/15908000.2009.pdf,,1
+16010000,Ref,Hawaii,No diversion upstream.,http://wdr.water.usgs.gov/wy2009/pdfs/16010000.2009.pdf,unregulated,1
+16013000,Non-ref,Hawaii,"Beginning July 16, 1970, diversion by Mohihi Canal 0.7 mile above station for irrigation in  vicinity of Kekaha.",1970 ADR,low-flow regulated after 7/1970,3
+16019000,Ref,Hawaii,No diversion upstream.,http://wdr.water.usgs.gov/wy2009/pdfs/16019000.2009.pdf,unregulated; long-term trend station,1
+16031000,Non-ref,Hawaii,Several upstream diversions for power and irrigation.,1984 ADR,regulated,3
+16036000,Non-ref,Hawaii,Olokele ditch diverts all low flow from the headwaters of the Olokele River 9 mi upstream for irrigation in vicinity of Makaweli. A 5 ft³/s capacity ditch diverts water 0.1 mi upstream of station for irrigation of taro in the vicinity of the station.,http://wdr.water.usgs.gov/wy2006/pdfs/16036000.2006.pdf,low-flow regulated,3
+16049000,Non-ref,Hawaii,Koula ditch diverts water 3.0 mi upstream of station for irrigation in vicinity of Makaweli.,http://wdr.water.usgs.gov/wy2009/pdfs/16049000.2009.pdf,low-flow regulated; possibly combine with 16043000,3
+16060000,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16060000.2009.pdf,low-flow regulated; possibly combine with 16057000 and 16058000,3
+16063000,Non-ref,Hawaii,"Since 1925, Hanalei tunnel (station 16100000) has diverted from Hanalei River basin into North Fork Wailua River above station; North Wailua and Stable storm ditches (station 16061000 and 160620000) divert water abv station for power development and irrig",1984 ADR,low-flow regulated,3
+16068000,Ref,Hawaii,No diversion upstream.,http://wdr.water.usgs.gov/wy2009/pdfs/16068000.2009.pdf,unregulated; long-term trend station,1
+16071000,Non-ref,Hawaii,Wailua ditch (station 16069000) diverts water upstream for irrigation of sugarcane in vicinities of Kapaa and Wailua,2000 ADR,low-flow regulated,3
+16071500,Ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16071500.2009.pdf,unregulated,1
+16080000,Non-ref,Hawaii,Entire low flow is diverted above station at times for irrigation of sugarcane. Records do not include flow of Kapahi ditch (sta 16079000).,1984 ADR,low-flow regulated,3
+16089000,Non-ref,Hawaii,Records include flow in Lower Anahola ditch (see sta 16091000). Anahola ditch (see 16088000) diverts 3mi above station for irrigation in vicinity of Kealia.,1984 ADR,low-flow regulated,3
+16097500,Ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16097500.2009.pdf,unregulated; long-term trend station,1
+16103000,Non-ref,Hawaii,No diversions upstream.,http://wdr.water.usgs.gov/wy2009/pdfs/16103000.2009.pdf,low-flow regulated; unregulated after Hurricane Iniki 09/1992?,2
+16108000,Ref,Hawaii,No diversion upstream.,http://wdr.water.usgs.gov/wy2009/pdfs/16108000.2009.pdf,unregulated; long-term trend station,1
+16200000,Ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16200000.2009.pdf,unregulated; long-term trend station,1
+16208000,Non-ref,Hawaii,"Prior to 1960, water was diverted from reservoirs upstream of station for use at Schofield Barracks.",http://wdr.water.usgs.gov/wy2009/pdfs/16208000.2009.pdf,low-flow regulated; unregulated after 10/1966?,2
+16211000,Non-ref,Hawaii,Poamoho tunnel diverts 180 ft above station to North Fork Kaukonahua Stream to augment storage in Wahiawa Reservoir.,1970 ADR,low-flow regulated,3
+16211600,Non-ref,Hawaii,"Records fair, except for flows greater than 40 ft³/s and estimated days which are poor. Honolulu Board of Water Supply wells upstream of station may influence flows at gage.",http://wdr.water.usgs.gov/wy2009/pdfs/16211600.2009.pdf,affected by groundwater withdrawal,3
+16212601,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16212601.2009.pdf,continuous record available only since 09/2007; urban and ag setting,3
+16212800,Non-ref,Hawaii,"At times, a small amount of water is diverted from the gage pool for the domestic use.",http://wdr.water.usgs.gov/wy2009/pdfs/16212800.2009.pdf,mainly unregulated,2
+16213000,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16213000.2009.pdf,low-flow regulated; urban and ag setting,3
+16216000,Non-ref,Hawaii,Pearl Harbor Springs measurement.,http://wdr.water.usgs.gov/wy2009/pdfs/16216000.2009.pdf,low-flow regulated; urban setting,3
+16224500,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16224500.2009.pdf,low-flow regulated; urban setting,3
+16226000,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2006/pdfs/16226000.2006.pdf,upstream of discharge from H-3 freeway,2
+16226200,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16226200.2009.pdf,receives runoff from H-3 freeway,2
+16226400,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16226400.2009.pdf,receives runoff from H-3 freeway; industrial setting,2
+16228000,Ref,Hawaii,No diversion above station.,1970 ADR,unregulated,1
+16229000,Ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16229000.2009.pdf,unregulated; long-term trend station,1
+16229300,Non-ref,Hawaii,No diversion above station.,1984 ADR,unregulated; urban setting,3
+16232000,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16232000.2009.pdf,regulated; upstream reservoir,3
+16238500,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16238500.2009.pdf,low-flow regulated; upstream groundwater development tunnel,2
+16240500,Non-ref,Hawaii,Honolulu Board of Water Supply at times diverts a small amount of ground water from tunnel upstream of station. Occasional small diversions for irrigation upstream of station.,http://wdr.water.usgs.gov/wy2009/pdfs/16240500.2009.pdf,low-flow regulated; upstream groundwater development tunnel,3
+16242500,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16242500.2009.pdf,,
+16244000,Non-ref,Hawaii,No diversion above station.,1970 ADR,"possible urban effects, upstream groundwater development tunnel?",2
+16246000,Non-ref,Hawaii,Honolulu Board of Water Supply  diverts ground water from tunnels in drainage area.,1970 ADR,low-flow regulated; upstream groundwater development tunnel,3
+16247000,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16247000.2009.pdf,low-flow regulated; upstream groundwater development tunnel; urban setting,3
+16254000,Non-ref,Hawaii,Maunawili ditch diverts ground and surface water 1.5 miles upstream of station at elevation 920 feet for irrigation in vicinity of Waimanalo.,http://wdr.water.usgs.gov/wy2009/pdfs/16254000.2009.pdf,low-flow regulated,3
+16272200,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16272200.2009.pdf,regulated; upstream reservoir,3
+16275000,Non-ref,Hawaii,Honolulu Board of Water Supply has diverted ground water from tunnel in drainage area since 1943.,http://wdr.water.usgs.gov/wy2009/pdfs/16275000.2009.pdf,low-flow regulated since 1944,3
+16283200,Non-ref,Hawaii,"Honolulu Board of Water Supply has diverted ground water from tunnel in drainage area since 1947. At times, farmers upstream of gage pump and/or divert small amounts of water from the stream.",http://wdr.water.usgs.gov/wy2009/pdfs/16283200.2009.pdf,low-flow regulated,3
+16284000,Non-ref,Hawaii,Honolulu Board of Water Supply diverts water from wells in drainage area.,1970 ADR,low-flow regulated; Waihee groundwater tunnel,3
+16284200,Non-ref,Hawaii,Honolulu Board of Water Supply diverts water from tunnel and wells in drainage area.,http://wdr.water.usgs.gov/wy2009/pdfs/16284200.2009.pdf,low-flow regulated; Waihee groundwater tunnel,3
+16294100,Non-ref,Hawaii,"Waiahole ditch diverts ground water from tunnels upstream of station. Beginning early December 1994, Waiahole Ditch began releasing water into Waiahole Stream.",http://wdr.water.usgs.gov/wy2009/pdfs/16294100.2009.pdf,low-flow regulated; upstream groundwater development tunnels,3
+16294900,Non-ref,Hawaii,"Waiahole ditch diverts ground water from tunnels upstream of station. Beginning early October, 2002, Waiahole Ditch began releasing water into Waikane Stream.",http://wdr.water.usgs.gov/wy2009/pdfs/16294900.2009.pdf,low-flow regulated; upstream groundwater development tunnels,3
+16295300,Non-ref,Hawaii,Small diversion upstream of gage for diversified agriculture.,http://wdr.water.usgs.gov/wy2008/pdfs/16295300.2008.pdf,small diversion upstream for diversified ag,2
+16296500,Non-ref,Hawaii,Waiahole ditch diverts water from tributaries and tunnels upstream of station. Recording rain gage located 50 feet from the streamgage at an elevation of 80 feet.,http://wdr.water.usgs.gov/wy2008/pdfs/16296500.2008.pdf,low-flow regulated; upstream groundwater development tunnels,3
+16303000,Ref,Hawaii,Records good and does not include the flow of Punaluu Ditch (see station 16302000).,http://wdr.water.usgs.gov/wy2008/pdfs/16303000.2008.pdf,use 16303003 (combined flow from 16303000 and 16302000),1
+16304200,Non-ref,Hawaii,No diversion upstream of station.,http://wdr.water.usgs.gov/wy2009/pdfs/16304200.2009.pdf,unregulated,1
+16325000,Ref,Hawaii,No diversion upsteam of station.,2000 ADR,unregulated,1
+16330000,Non-ref,Hawaii,Small diversion upstream of station.,http://wdr.water.usgs.gov/wy2009/pdfs/16330000.2009.pdf,low-flow regulated,3
+16345000,Ref,Hawaii,No diversion upstream of station.,http://wdr.water.usgs.gov/wy2009/pdfs/16345000.2009.pdf,unregulated,1
+16400000,Ref,Hawaii,No diversion upstream.,http://wdr.water.usgs.gov/wy2009/pdfs/16400000.2009.pdf,unregulated; long-term trend station,1
+16404200,Ref,Hawaii,No diversion above station.,1984 ADR,unregulated,1
+16405500,Non-ref,Hawaii,"Since November 16, 1960, water diverted upstream at times, either into or from Molokai tunnel.",2000 ADR,low-flow regulated after 11/1960,3
+16408000,Non-ref,Hawaii,"Diversions above station for domestic use in Kalaupapa, and since Nov 16, 1960, water has been diverted above station both to and from the Molokai tunnel.",1984 ADR,low-flow regulated after 11/1960,3
+16414000,Non-ref,Hawaii,Flow has been augmented by occasional spillage from Molokai tunnel since May 1965.,1984 ADR,low-flow regulated after 5/1965,3
+16414200,Non-ref,Hawaii,No diversions upstream.  Flow has been augmented by occasional spillage from Molokai Tunnel since February 2003.,http://wdr.water.usgs.gov/wy2009/pdfs/16414200.2009.pdf,,
+16415000,Non-ref,Hawaii,Molokai Ranch diverts from gage pool.,1970 ADR,low-flow regulated,3
+16415600,Non-ref,Hawaii,"Flow in East Fork affected by diversions to Molokai Irrigation System pipeline at elevation 3,625 ft.",http://wdr.water.usgs.gov/wy2009/pdfs/16415600.2009.pdf,low-flow regulated; upstream diversion,3
+16419500,Non-ref,Hawaii,Diverson upstream of station for domestic use at Puu O Hoka Ranch.,2000 ADR,low-flow regulated,3
+16501000,Non-ref,Hawaii,No diversion upstream,1970 ADR,small amount diverted by Ulupalakua Ranch (1939); no diversion as of 08/1948,2
+16501200,Ref,Hawaii,No diversions upstream of gage.,http://wdr.water.usgs.gov/wy2009/pdfs/16501200.2009.pdf,,
+16508000,Ref,Hawaii,No diversion upstream of station.,http://wdr.water.usgs.gov/wy2009/pdfs/16508000.2009.pdf,unregulated; long-term trend station,1
+16518000,Ref,Hawaii,"No diversion upstream of station. Water is diverted by Koolau Ditch, 500 ft downstream, for domestic supply and irrigation of sugarcane in central Maui.",http://wdr.water.usgs.gov/wy2009/pdfs/16518000.2009.pdf,unregulated,1
+16521300,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16521300.2009.pdf,EMI diversion no longer active?; some flow may not be measured by gage,3
+16545000,Non-ref,Hawaii,"Kula pipeline diverts above station at altitudes 4,300 ft (since 1934) and 3,200 ft (since 1944) for domestic use.",1970 ADR,low-flow regulated,3
+16570000,Ref,Hawaii,No diversion upstream since 1922.,1970 ADR,unregulated since 1922,1
+16585000,Ref,Hawaii,"No diversion above station. All low flow diverted into Wailoa ditch 250 ft below station for domestic supply, power, and irrigation in central Maui.",1970 ADR,unregulated,1
+16587000,Ref,Hawaii,No diversion upstream of station.,http://wdr.water.usgs.gov/wy2009/pdfs/16587000.2009.pdf,unregulated; long-term trend station,1
+16604500,Non-ref,Hawaii,No appreciable diversion upstream of station.,http://wdr.water.usgs.gov/wy2009/pdfs/16604500.2009.pdf,possible effects from groundwater development tunnels upstream,2
+16614000,Non-ref,Hawaii,No diversion upstream of station.,http://wdr.water.usgs.gov/wy2009/pdfs/16614000.2009.pdf,possible effects from groundwater development tunnels upstream,2
+16618000,Ref,Hawaii,No diversion upstream of station.,http://wdr.water.usgs.gov/wy2009/pdfs/16618000.2009.pdf,unregulated; long-term trend station,1
+16620000,Ref,Hawaii,No diversion upstream of station.,http://wdr.water.usgs.gov/wy2009/pdfs/16620000.2009.pdf,unregulated; long-term trend station,1
+16638500,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16638500.2009.pdf,low-flow regulated,3
+16681000,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16681000.2009.pdf,"basin affected by bombing, goats; revegetation efforts ongoing",3
+16682000,Non-ref,Hawaii,,http://wdr.water.usgs.gov/wy2009/pdfs/16682000.2009.pdf,"basin affected by bombing, goats; revegetation efforts ongoing",3
+16700000,Non-ref,Hawaii,No diversion upstream. Large part comes from 3 tunnels.,1985 ADR,unregulated; poorly defined basin; high flows may bypass gage,3
+16704000,Non-ref,Hawaii,Kapehu ditch diverted water from Kapehu Stream into Wailuku River upstream 1938-63. Department of Water Supply diverted about 6 ft³/s of water upstream of gage until 1967. Hydroelectric plant diverts variable amounts of water up to 160 ft³/s about 1 mi up,http://wdr.water.usgs.gov/wy2009/pdfs/16704000.2009.pdf,low-flow regulated,3
+16717000,Ref,Hawaii,"No diversion upstream. During period 1911-13, Honolii ditch diverted an average of about 3.2 ft³/s upstream for fluming cane and domestic use.",http://wdr.water.usgs.gov/wy2009/pdfs/16717000.2009.pdf,unregulated; long-term trend station,1
+16720000,Ref,Hawaii,No diversion upstream.,http://wdr.water.usgs.gov/wy2009/pdfs/16720000.2009.pdf,unregulated; long-term trend station,1
+16720300,Ref,Hawaii,No diversion upstream.,1985 ADR,unregulated,1
+16725000,Non-ref,Hawaii,Parker Ranch pipeline no longer diverts from tributary 0.4 mi upstream for ranch use in Kamuela area.,http://wdr.water.usgs.gov/wy2009/pdfs/16725000.2009.pdf,no longer diverted,2
+16756100,Non-ref,Hawaii,"Parker Ranch diverts water from Kohakohau Stream at an altitude of 4,250 ft through a 4-inch pipeline. Hawaii Dept of Water Supply diverts water at dam 200 ft downstream for domestic use in the Kamuela and Kawaihae areas since August 20, 1973.",http://wdr.water.usgs.gov/wy2009/pdfs/16756100.2009.pdf,"uncertain status of upstream diversion from two 4"" pipes by Parker Ranch",2
+16757000,Non-ref,Hawaii,No diversion upstream.,1970 ADR,unregulated,1
+16758000,Non-ref,Hawaii,Parker Ranch diverts less than 1 ft³/s through a 6-in. pipe upstream of gage.,http://wdr.water.usgs.gov/wy2009/pdfs/16758000.2009.pdf,low-flow regulated,3
+16759000,Non-ref,Hawaii,Diversions upstream for livestock and domestic use.,2000 ADR,"low-flow regulated; 2"" and 3"" pipes always running",3
+16759800,Ref,Hawaii,No diversion upstream.,1970 ADR,unregulated,1
+16764000,Ref,Hawaii,No diversion upstream.,1985 ADR,unregulated,1
+16770500,Non-ref,Hawaii,No diversion upstream.,http://wdr.water.usgs.gov/wy2009/pdfs/16770500.2009.pdf,unregulated,1
+50010500,Non-ref,PuertoRico,Small diversion above station for sewage treatment plant; effluent re-enters stream below station. Record affected by domestic discharges entering upstream right bank of bridge.,http://wdr.water.usgs.gov/wy2009/pdfs/50010500.2009.pdf,Flow regime is affected significantly by withdrawals (10 to 50%).,3
+50014800,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50014800.2008.pdf,Low flows affected by water supply withdrawals (5 to 7%).,2
+50021700,Non-ref,PuertoRico,Flow regulated by Lago Adjuntas Dam approximately 5.2 mi (8.37 km) upstream.,http://wdr.water.usgs.gov/wy2009/pdfs/50021700.2009.pdf,"Flows affected by WTP withdrawals, WWTP discharges, and diversions at two dams.",3
+50024950,Non-ref,PuertoRico,Flow regulated by Lago Adjuntas Dam approximately 6.0 mi (9.66 km) upstream.,http://wdr.water.usgs.gov/wy2009/pdfs/50024950.2009.pdf,"Flow affected gy WTP withdrawals, WWTP discharges, and regulations by 3 dams.",3
+50025155,Ref,PuertoRico,,http://wdr.water.usgs.gov/wy2009/pdfs/50025155.2009.pdf,No-flow regulation or withdrawals upstream from station.,1
+50026025,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2009/pdfs/50026025.2009.pdf,Flows affected by WTP withdrawals and WWTP discharges.,3
+50026200,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2006/pdfs/50026200.2006.pdf,Flows affected by WTP withdrawals WWTP discharges and dams operations.,3
+50027000,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2009/pdfs/50027000.2009.pdf,Low flows affected by WTP withdrawals (+- 5%).,2
+50028000,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50028000.2008.pdf,Low flows affected by WTP withdrawals (up to 10%).,2
+50028400,Non-ref,PuertoRico,Diversion 0.8 mi (1.3 km) upstream for municipal supply of Arecibo.,http://wdr.water.usgs.gov/wy2008/pdfs/50028400.2008.pdf,Low flows affected by WTP withdrawals and water diversions.,2
+50029000,Non-ref,PuertoRico,"Flow regulated by Lago Dos Bocas dam, 13.9 mi (22.4 km) upstream.",http://wdr.water.usgs.gov/wy2008/pdfs/50029000.2008.pdf,"Flows affected by large WTP withdrawals, WWTP discharge, and dams.",3
+50031200,Non-ref,PuertoRico,"Public water-supply pumpage, about 1,000 ft (305 m) upstream from the station, influences low-flow discharges.",http://wdr.water.usgs.gov/wy2008/pdfs/50031200.2008.pdf,Flows affected by WTP withdrawals and WWTP discharges.,3
+50034000,Ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50034000.2008.pdf,No significant withdrawals or discharges upstream from station.,1
+50035000,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50035000.2008.pdf,Low to medium flows affected by withdrawals discharges (10-20%).,2
+50038100,Non-ref,PuertoRico,Possible water extraction about 500 ft (152.4 m) upstream of gage by unknown source affecting low flow.,http://wdr.water.usgs.gov/wy2008/pdfs/50038100.2008.pdf,Low flows affected by withdrawals/discharges (+- 12%).,2
+50038320,Non-ref,PuertoRico,Daily discharge affected by sewage treatment pant about 0.6 mi (1.0 km) upstream from station.,2003 ADR,All flow regimes affected by withdrawals/discharges.,3
+50039500,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50039500.2008.pdf,Low to medium flows affected by withdrawals discharges.,3
+50043000,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50043000.2008.pdf,Low to medium flows affected by withdrawals discharges.,3
+50043800,Non-ref,PuertoRico,Water Filtration plant approximately 300 ft (91.44 m) upstream from station.,http://wdr.water.usgs.gov/wy2009/pdfs/50043800.2009.pdf,Low to medium flows affected by withdrawals discharges.,3
+50044810,Non-ref,PuertoRico,Low-flow is affected by discharges from Puerto Rico Aqueduct and Sewer Authority (PRASA) waste water treatment plant.,http://wdr.water.usgs.gov/wy2009/pdfs/50044810.2009.pdf,Low to medium flows affected by withdrawals discharges.,3
+50045010,Non-ref,PuertoRico,Regulation at all stages by the Puerto Rico Aqueduct and Sewer Authority reservoir upstream from gage.,http://wdr.water.usgs.gov/wy2009/pdfs/50045010.2009.pdf,85 to 90 cfs are withdrew from La Plata reservoir just upstream from gage.,3
+50046000,Non-ref,PuertoRico,Regulation at all stages by the Puerto Rico Aqueduct and Sewer Authority (PRASA) reservoir upstream from gage. Flow affected by water extraction for La Virgencita water treatment plant by the Puerto Rico Aqueduct and Sewer Authority (PRASA) of about 3.99,http://wdr.water.usgs.gov/wy2008/pdfs/50046000.2008.pdf,Near 100 cfs are withdrew ustream from station.,3
+50047535,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2006/pdfs/50047535.2006.pdf,None withdrawals/discharges upstream the station.,1
+50047560,Non-ref,PuertoRico,,Not available,Flow regulated by Cidra Dam just upstream from station.,3
+50047850,Non-ref,PuertoRico,"Diversion to the Guaynabo water treatment plant, for municipal supply, made upstream from station (at Represa de San Juan). Flow is regulated by storage and release of water at Lago de Cidra (capacity 5,220 acre-ft), 10.5 mi (16.9 km) upstream.",http://wdr.water.usgs.gov/wy2008/pdfs/50047850.2008.pdf,Low to medium flows affected by withdrawals.,3
+50048690,Non-ref,PuertoRico,"Flow completly regulated by Lago Las Curias Dam, 0.20 mi (0.32 km) from gage.",http://wdr.water.usgs.gov/wy2009/pdfs/50048690.2009.pdf,Flow regulated by Las Curias Dam just upstream from station.,3
+50048770,Non-ref,PuertoRico,Low flow is affected by discharges from water treatment plant of the Puerto Rico Aqueduct and Sewer Authority (PRASA) and others dispersed pollution points directly to the river.,http://wdr.water.usgs.gov/wy2007/pdfs/50048770.2007.pdf,Upstream flow regulation has sligth effect on medium to high flows.,3
+50049100,Non-ref,PuertoRico,"Mean daily discharge affected by sewage discharges (approximately 2 ft³/s (0.06 m³/s), 20 ft (6 m) upstream from gaging station.",http://wdr.water.usgs.gov/wy2007/pdfs/50049100.2007.pdf,Upstream flow regulation has sligth effect on medium to high flows.,3
+50050900,Ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50050900.2008.pdf,No significant withdrawals/discharges upstream from station.,1
+50051310,Non-ref,PuertoRico,Sand removal at a commercial level is practiced at times during the year. This takes place about 100 ft (30.5 m) downstream from gage.,http://wdr.water.usgs.gov/wy2008/pdfs/50051310.2008.pdf,Low to medium flows affected by withdrawals (10-20%).,2
+50051800,Non-ref,PuertoRico,Water purification plant located about 0.2 mi (0.3 km) upstream from gage.,http://wdr.water.usgs.gov/wy2009/pdfs/50051800.2009.pdf,Low to medium flows affected by withdrawals (>20%).,3
+50053025,Non-ref,PuertoRico,"Low flow affected by diversion of water by the Puerto Rico Aqueduct and Sewage Authority, (PRASA) which has a water intake at Quebrada Morena, an upstream tributary of Río Turabo that supplies San Salvador Water Filtration plant.",http://wdr.water.usgs.gov/wy2009/pdfs/50053025.2009.pdf,Low flows affected by withdrawals (4 to 7%).,2
+50055000,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50055000.2008.pdf,Low to medium flows affected by withdrawals/discharges (>20%).,3
+50055380,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2009/pdfs/50055380.2009.pdf,Low flows are affected more than 25%.,3
+50055750,Non-ref,PuertoRico,"Low flow is affected by sewage discharges from a water treatment plant, 0.60 mi (0.96 km) upstream from gaging station.",http://wdr.water.usgs.gov/wy2009/pdfs/50055750.2009.pdf,Flows affected by significant withdrawals (up to 3cfs) upstream for station.,3
+50056400,Non-ref,PuertoRico,"Minor diversion from public water-supply tank, 0.5 mi upstream, during low flow.",http://wdr.water.usgs.gov/wy2008/pdfs/50056400.2008.pdf,Low to medium flows affected by withdrawals (10-35%).,3
+50057000,Non-ref,PuertoRico,"Low flow affected by diversions for water supply about 400 ft (121 m) upstream from station by Puerto Rico Aqueduct and Sewage Authority, (PRASA).",http://wdr.water.usgs.gov/wy2008/pdfs/50057000.2008.pdf,Low to medium high flows affected by withdrawals (15-50%).,3
+50058350,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2009/pdfs/50058350.2009.pdf,None withdrawals/discharges upstream from station.,1
+50059050,Non-ref,PuertoRico,Flow regulated by Lago Loíza Dam.,http://wdr.water.usgs.gov/wy2007/pdfs/50059050.2007.pdf,Flow regulated by Carraizo Dam withdrawals/discharges upstream station.,3
+50059210,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2006/pdfs/50059210.2006.pdf,No withdrawals/discharges upstream from station.,1
+50061800,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50061800.2008.pdf,Low to medium flows affected by water supply withdrawals (up to 30%).,3
+50063440,Ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50063440.2008.pdf,No withdrawals/discharges upstream from station.,1
+50063800,Ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50063800.2008.pdf,Low flows affected by withdrawals < 5% of flows.,2
+50064200,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50064200.2008.pdf,Low to medium flows affected by withdrawals (7 to 18%).,2
+50065500,Ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50065500.2008.pdf,No withdrawals/discharges upstream from station.,1
+50067000,Non-ref,PuertoRico,"Low flow affected by the Puerto Rico Aqueduct and Sewer Authority (PRASA) water intake 1 mi (1.6 km) upstream, and purification plant 0.2 mi (0.32 km).",http://wdr.water.usgs.gov/wy2008/pdfs/50067000.2008.pdf,Low to medium high flows affected by withdrawals ( 8 to 50%).,3
+50070900,Ref,PuertoRico,Low flow affected by diversions for water supply about 60 ft (18.3 m) downstream from gaging station.,http://wdr.water.usgs.gov/wy2007/pdfs/50070900.2007.pdf,No withdrawals/discharges upstream from station.,1
+50071000,Non-ref,PuertoRico,Low-flow affected by diversions for water supply about 0.25 mi (0.4 km) upstream from gaging station (estimated mean daily discharges is 9 ft³/s (0.255 m³/s)).,http://wdr.water.usgs.gov/wy2008/pdfs/50071000.2008.pdf,Low to medium high flows affected by withdrawals (8 to 50%).,3
+50075000,Ref,PuertoRico,,http://wdr.water.usgs.gov/wy2006/pdfs/50075000.2006.pdf,No withdrawals/discharges upstream from station.,1
+50076000,Non-ref,PuertoRico,Low flow affected by diversion for water supply and hydroelectric power generation.,http://wdr.water.usgs.gov/wy2009/pdfs/50076000.2009.pdf,low flows affected by withdrawals and hydroelectric power generation.,2
+50081000,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50081000.2008.pdf,No withdrawals/discharges upstream from station.,1
+50085100,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2009/pdfs/50085100.2009.pdf,Low to medium flows affected by withdrawals (5 to 13%).,2
+50090500,Ref,PuertoRico,,http://wdr.water.usgs.gov/wy2007/pdfs/50090500.2007.pdf,No significant withdrawals (± 2% or 0.1 cfs) of 5.3 cfs upstream from station.,1
+50092000,Ref,PuertoRico,,http://wdr.water.usgs.gov/wy2007/pdfs/50092000.2007.pdf,No significant withdrawals upstream from station.,1
+50093120,Non-ref,PuertoRico,Flow regulated by Lago Patillas Dam.,http://wdr.water.usgs.gov/wy2009/pdfs/50093120.2009.pdf,Flow regulated by Patillas Dam & withdrawals from the reservoir.,3
+50100200,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2007/pdfs/50100200.2007.pdf,No withdrawals/discharges upstream from station.,1
+50100450,Ref,PuertoRico,Some regulation at low flow upstream from station by local residents for agricultural purposes.,http://wdr.water.usgs.gov/wy2007/pdfs/50100450.2007.pdf,No withdrawals/discharges upstream from station.,1
+50106100,Non-ref,PuertoRico,"Low flow is affected by domestic discharges about 200 ft (65.6 m), upstream from gaging station.",http://wdr.water.usgs.gov/wy2007/pdfs/50106100.2007.pdf,Low to medium flows affected by withdrawals (30-50%).,3
+50108000,Ref,PuertoRico,Some regulation at low flow by local resident upstream from station.,http://wdr.water.usgs.gov/wy2007/pdfs/50108000.2007.pdf,No withdrawals/discharges upstream from station.,1
+50110900,Ref,PuertoRico,,http://wdr.water.usgs.gov/wy2009/pdfs/50110900.2009.pdf,No withdrawals/discharges upstream from station.,1
+50111500,Non-ref,PuertoRico,Flow regulation from Lago Guayabal.,http://wdr.water.usgs.gov/wy2008/pdfs/50111500.2008.pdf,Flow regulated by two dams and withdrawals upstream from station.,3
+50112500,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2007/pdfs/50112500.2007.pdf,Low to medium flows affected by withdrawals (18-50%).,3
+50113800,Ref,PuertoRico,,http://wdr.water.usgs.gov/wy2009/pdfs/50113800.2009.pdf,Low flows affected by small withdrawals (< 5%).,2
+50114000,Non-ref,PuertoRico,"Flow regulated by Lago Cerrillos Dam since May 1991. Prior to June 1985, some low-flow regulation by construction upstream. Maximum discharge prior to regulation, 22,400 ft³/s (634 m³/s), September 16, 1975, gage height, 11.2 ft (3.41 m), site and datum t",http://wdr.water.usgs.gov/wy2008/pdfs/50114000.2008.pdf,Flow regulated by Cerrillos Dam and withdrawals upstream from station.,3
+50114900,Non-ref,PuertoRico,"Some low-flow regulation due to the Puerto Rico Aqueduct and Sewer Authority (PRASA) intakes (2), 0.85 mi (1.36 km) upstream from station.",http://wdr.water.usgs.gov/wy2007/pdfs/50114900.2007.pdf,Low flows affected by withdrawals (6-13%).,2
+50115000,Non-ref,PuertoRico,,2003 ADR,Low flows affected by withdrawals.,2
+50115900,Non-ref,PuertoRico,Some low-flow regulation due to Río Portugués dam construction activity upstream.,http://wdr.water.usgs.gov/wy2009/pdfs/50115900.2009.pdf,Low flows affected by withdrawals.,2
+50124200,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50124200.2008.pdf,Low flows affected by withdrawals (3-8%).,2
+50126150,Non-ref,PuertoRico,Flow affected by numerous diversions into and out of the basin.,http://wdr.water.usgs.gov/wy2007/pdfs/50126150.2007.pdf,Flow regulated by Lucchetti Dam and withdrawals upstream station.,3
+50131990,Non-ref,PuertoRico,,Not available,Low flows affected by withdrawals (±25%) and discharges,3
+50136400,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2007/pdfs/50136400.2007.pdf,Low flows affected by withdrawals (5-13%).,2
+50138000,Non-ref,PuertoRico,Daily discharges affected by sewage treatment plant about 2.1 mi (3.4 km) upstream from gage.,http://wdr.water.usgs.gov/wy2008/pdfs/50138000.2008.pdf,Low flows affected by withdrawals (± 25%) and discharges.,3
+50141000,Ref,PuertoRico,,1984 ADR,No significant withdrawals (< 3% of low flows ) or discharger upstream.,1
+50144000,Non-ref,PuertoRico,"Trans basin diversion (except during floods) to Rio Yauco basin for hydroelectric power and irrigation above Lago Guayo, Lago Yahuecas, and Lago Prieto, combined useable storage 17,300 acre-ft (21.3 hm³). Limited storm runoff is contributed to basin by 3.",http://wdr.water.usgs.gov/wy2008/pdfs/50144000.2008.pdf,Low to medium flows regulated by dams at headwater and withdrawals/discharges.,3
+50145395,Ref,PuertoRico,,http://wdr.water.usgs.gov/wy2007/pdfs/50145395.2007.pdf,No withdrawals/discharges upstream from station.,1
+50147800,Non-ref,PuertoRico,,http://wdr.water.usgs.gov/wy2008/pdfs/50147800.2008.pdf,Low to medium flows affected by withdrawals (3-8%) and discharges upstream from station,2
+50148890,Non-ref,PuertoRico,There are water extraction activities at the reservoir by the Puerto Rico Aqueduct and Sewer Authority (PRASA).,http://wdr.water.usgs.gov/wy2009/pdfs/50148890.2009.pdf,Gage located at same pool of WTP intake.,3
